@@ -1,0 +1,2 @@
+words="nikita"
+print (words)
