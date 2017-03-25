@@ -1,2 +1,0 @@
-words="nikita"
-print (words)
